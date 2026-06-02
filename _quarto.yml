@@ -1,11 +1,13 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
 
 website:
   title: "Democracy & Political Violence"
   description: "Democracy and Political Violence Conference & Working Group — Harvard University"
-  site-url: "https://cetialphafive.github.io/dpv-conference/"
+  site-url: "https://dpvconf.com"
   sidebar:
     style: floating
     search: false
