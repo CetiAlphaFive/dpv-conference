@@ -9,7 +9,14 @@ website:
   navbar:
     background: primary
     title: "Democracy & Political Violence"
-    left:
+    right:
+      - text: "Join the Listserv"
+        href: index.qmd#join
+  sidebar:
+    style: floating
+    search: false
+    logo: Death_of_Marat_by_David.jpg
+    contents:
       - href: index.qmd
         text: Home
       - href: schedule.qmd
@@ -20,9 +27,6 @@ website:
         text: Posters
       - href: about.qmd
         text: About
-    right:
-      - text: "Join the Listserv"
-        href: "#join"
   page-footer:
     center: "Democracy and Political Violence Conference & Working Group · Harvard University, Cambridge MA"
 
@@ -31,5 +35,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-    grid:
-      body-width: 1000px

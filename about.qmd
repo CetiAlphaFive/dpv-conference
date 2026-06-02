@@ -2,13 +2,14 @@
 title: "About"
 ---
 
+## Mission 
 The **Democracy and Political Violence Conference & Working Group** convenes researchers
-working on political violence and (anti-)democratic attitudes. The conference is held at
-Harvard University in Cambridge, MA.
+working on political violence and (anti-)democratic attitudes. Our first conference will be held at
+Harvard University in Cambridge, MA before APSA 2026.
 
 ## Organizers
 
-The conference is organized by **Sam**, **Gal**, and **Jack**.
+The conference is organized by **Sam Fuller**, **Gal Bitton**, and **Jack T. Rametta**.
 
 ## Questions, comments, concerns
 
