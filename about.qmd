@@ -2,14 +2,17 @@
 title: "About"
 ---
 
-## Mission 
 The **Democracy and Political Violence Conference & Working Group** convenes researchers
 working on political violence and (anti-)democratic attitudes. Our first conference will be held at
 Harvard University in Cambridge, MA before APSA 2026.
 
 ## Organizers
 
-The conference is organized by **Sam Fuller**, **Gal Bitton**, and **Jack T. Rametta**.
+The conference is organized by **[Sam Fuller](https://samjfuller.com/)**, **[Gal Bitton](https://galbitton5.github.io/)**, and **[Jack T. Rametta](https://jackrametta.com/)**.
+
+## Sponsors 
+
+The conference is supported by [Center for American Political Studies (CAPS)](https://caps.gov.harvard.edu/) and the [Weatherhead Center](https://www.wcfia.harvard.edu/) at Harvard University. 
 
 ## Questions, comments, concerns
 
