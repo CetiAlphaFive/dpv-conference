@@ -6,12 +6,6 @@ website:
   title: "Democracy & Political Violence"
   description: "Democracy and Political Violence Conference & Working Group — Harvard University"
   site-url: "https://cetialphafive.github.io/dpv-conference/"
-  navbar:
-    background: primary
-    title: "Democracy & Political Violence"
-    right:
-      - text: "Join the Listserv"
-        href: index.qmd#join
   sidebar:
     style: floating
     search: false

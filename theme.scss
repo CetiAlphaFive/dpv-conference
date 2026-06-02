@@ -1,11 +1,11 @@
 /*-- scss:defaults --*/
 
 // Palette
-$olive:      #434B26;  // header / primary
-$ochre:      #A57030;  // secondary accent + links
+$olive:      #434B26;
+$ochre:      #A57030;  // secondary + links
 $espresso:   #302B1F;  // body text
 $umber:      #673F25;  // deep accent / link hover
-$sand:       #C7AC67;  // page background
+$sand:       #CAB87B;  // page background
 
 $primary:    $olive;
 $secondary:  $ochre;
@@ -27,7 +27,11 @@ h1, h2, h3, h4, h5, h6 { color: $olive; }
 a { color: $ochre; }
 a:hover { color: $umber; }
 
-// Sidebar active page + hover
+// Larger sidebar menu
+.sidebar-navigation .sidebar-item .sidebar-item-text,
+.sidebar nav .sidebar-item a,
+.sidebar nav a { font-size: 1.2rem; }
+
 .sidebar nav a.active,
 .sidebar nav a:hover { color: $umber; font-weight: 600; }
 

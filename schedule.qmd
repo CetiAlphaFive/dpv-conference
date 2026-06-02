@@ -22,8 +22,3 @@ title: "Schedule"
 | 4:00 – 4:05 | Break 3 | — |
 | 4:05 – 4:20 | Concluding Remarks from Gal, Sam, and Jack | 61 Kirkland, Rm 202 |
 | 4:30 – 6:30 | **Poster Session** with happy hour (drinks and pizza) | CGIS Knafel, Fisher Family Commons |
-
-::: {.callout-note}
-Main-session panel assignments are listed on the [Panels](panels.qmd) page. Discussant
-assignments for the main panels will follow over the summer.
-:::
