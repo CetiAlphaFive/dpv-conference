@@ -2,15 +2,17 @@
 
 // Palette
 $olive:      #434B26;  // header / primary
-$ochre:      #A57030;  // secondary accent
+$ochre:      #A57030;  // secondary accent + links
 $espresso:   #302B1F;  // body text
-$umber:      #673F25;  // links
+$umber:      #673F25;  // deep accent / link hover
+$sand:       #C7AC67;  // page background
 
 $primary:    $olive;
 $secondary:  $ochre;
+$body-bg:    $sand;
 $body-color: $espresso;
-$link-color: $umber;
-$link-hover-color: $ochre;
+$link-color: $ochre;
+$link-hover-color: $umber;
 
 // Typography — Gill Sans MT with graceful fallbacks (proprietary, no web embed)
 $font-family-sans-serif: "Gill Sans MT", "Gill Sans", "Gill Sans Nova", Calibri, "Trebuchet MS", "Segoe UI", sans-serif !default;
@@ -18,16 +20,16 @@ $headings-font-family: $font-family-sans-serif;
 
 /*-- scss:rules --*/
 
-body { font-family: $font-family-sans-serif; }
+body { font-family: $font-family-sans-serif; background-color: $sand; }
 
 h1, h2, h3, h4, h5, h6 { color: $olive; }
 
-a { color: $umber; }
-a:hover { color: $ochre; }
+a { color: $ochre; }
+a:hover { color: $umber; }
 
 // Sidebar active page + hover
 .sidebar nav a.active,
-.sidebar nav a:hover { color: $ochre; font-weight: 600; }
+.sidebar nav a:hover { color: $umber; font-weight: 600; }
 
 // Footer tint
 .nav-footer, .page-footer { background-color: $espresso; color: #f3efe6; }

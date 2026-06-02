@@ -2,13 +2,10 @@
 title: "Main Panels"
 ---
 
-These are the proposed main panels. The lineup is subject to change based on suggestions
-and extenuating circumstances (e.g., dropouts).
-
 ::: {.callout-note title="Discussants"}
 Discussant assignments will be circulated over the summer. Presenters on a main panel are
 expected to discuss another main-panel paper. We plan to have two discussants per paper,
-supplemented by attendees and the organizers (Sam, Gal, and Jack).
+supplemented by attendees and the organizers.
 :::
 
 ## Panel 1 — Comparative Perspectives on Political Violence
