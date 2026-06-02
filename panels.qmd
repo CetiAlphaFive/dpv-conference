@@ -14,8 +14,8 @@ title: "Main Panels"
 
 **Chair:** [Hilary Izatt](https://www.hilaryizatt.com/) (Binghamton University)
 
-- **Amnon Cavari** — *Rallying Around Democracy: Public Evaluation of Democratic Quality During War*
-- **Lucas Woodley** — *Tracking the Erosion of Democratic Norms: Panel Evidence Spanning the 2024 US Presidential Election*
+- **[Amnon Cavari](https://www.runi.ac.il/en/faculty/cavari)** — *Rallying Around Democracy: Public Evaluation of Democratic Quality During War*
+- **[Lucas Woodley](https://caps.gov.harvard.edu/directory/lucas-woodley/)** — *Tracking the Erosion of Democratic Norms: Panel Evidence Spanning the 2024 US Presidential Election*
 - **[Lennart Schürmann](https://schuermannl.github.io/)** — *Defending Democracy: Quasi-Experimental Evidence of the Effect of State Action on Public Support for Democracy*
 
 ## Panel 3 — The Effect of Personal Experience and Social Norms on (Anti-)Democratic Attitudes and Support for Political Violence
