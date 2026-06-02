@@ -9,7 +9,7 @@ pagetitle: "Democracy & Political Violence Conference"
 **Location:** 61 Kirkland St., Room 202 — Cambridge, MA<br>
 **Date:** *Wednesday, September 2nd 2026*
 
-[Join the Listserv](#){.btn .btn-primary .btn-lg}
+[Join the Listserv](https://groups.io/g/dpv){.btn .btn-primary .btn-lg target="_blank"}
 :::
 
 ## About the conference
