@@ -3,11 +3,16 @@ project:
   output-dir: _site
   resources:
     - CNAME
+    - favicon.ico
+    - favicon-32x32.png
+    - favicon-16x16.png
+    - apple-touch-icon.png
 
 website:
   title: "Democracy & Political Violence"
   description: "Democracy and Political Violence Conference & Working Group — Harvard University"
   site-url: "https://dpvconf.com"
+  favicon: favicon.ico
   sidebar:
     style: floating
     search: false
@@ -31,3 +36,4 @@ format:
     theme: [cosmo, theme.scss]
     css: styles.css
     toc: false
+    include-in-header: head-icons.html
