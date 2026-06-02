@@ -4,23 +4,19 @@ pagetitle: "Democracy & Political Violence Conference"
 ---
 
 ::: {.hero-banner}
-### A working conference at Harvard University
+### An APSA 2026 pre-conference at Harvard University
 
 **Location:** 61 Kirkland St., Room 202 — Cambridge, MA
-**Date:** *To be announced*
+**Date:** *Wednesday, September 2nd 2026*
 
 [Join the Listserv](#){.btn .btn-primary .btn-lg}
 :::
 
 ## About the conference
 
-The **Democracy and Political Violence Conference & Working Group** brings together
+The **Democracy and Political Violence APSA Pre-Conference** brings together
 researchers studying political violence and (anti-)democratic attitudes across
 comparative and national contexts. The day features three main panels, a poster
-session, and structured opportunities to connect researchers by shared interests.
-
-- **Three main panels** with chairs and discussants — see [Panels](panels.qmd).
-- **Full-day agenda** with breakfast, lunch, and a poster happy hour — see [Schedule](schedule.qmd).
-- **Poster session** (~10–20 posters) — see [Posters](posters.qmd) to submit.
+session, and structured opportunities to connect researchers.
 
 Organized by Sam, Gal, and Jack. See [About](about.qmd).
