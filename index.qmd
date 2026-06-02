@@ -4,7 +4,7 @@ pagetitle: "Democracy & Political Violence Conference"
 ---
 
 ::: {.hero-banner}
-### An APSA 2026 pre-conference at Harvard University
+### Mini-Conference at Harvard University before APSA 2026
 
 **Location:** 61 Kirkland St., Room 202 — Cambridge, MA<br>
 **Date:** *Wednesday, September 2nd 2026*
