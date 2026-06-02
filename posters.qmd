@@ -1,0 +1,18 @@
+---
+title: "Poster Session"
+---
+
+The poster session runs **4:30 – 6:30** in **CGIS Knafel, Fisher Family Commons**, with a
+happy hour (drinks and pizza).
+
+We currently have about **10 confirmed posters** and may have up to **20**. Poster
+submissions are open for now.
+
+::: {.callout-tip title="Submit a poster"}
+Know someone who might want to present? Share the submission form:
+
+[Submit a poster](https://forms.gle/Gbvo5kDgc5LpBVZj9){.btn .btn-primary}
+:::
+
+Many attendees have indicated they are willing to discuss a paper in the poster session.
+We will match discussants once the poster lineup is finalized.

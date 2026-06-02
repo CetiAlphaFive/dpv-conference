@@ -1,0 +1,29 @@
+---
+title: "Schedule"
+---
+
+**Location:** Harvard University, Cambridge, MA
+**Main sessions:** 61 Kirkland St., Room 202 — *202 Meeting Room*
+**Poster session:** CGIS Knafel, Fisher Family Commons
+
+## Working schedule
+
+| Time | Session | Room |
+|------|---------|------|
+| 8:15 – 9:15 | Coffee and Breakfast Hour | 61 Kirkland, Rm 202 |
+| 9:15 – 9:30 | Introductions | 61 Kirkland, Rm 202 |
+| 9:30 – 9:45 | Opening Remarks | 61 Kirkland, Rm 202 |
+| 9:45 – 9:50 | Break 1 | — |
+| 9:50 – 11:20 | **Main Session 1** | 61 Kirkland, Rm 202 |
+| 11:20 – 11:30 | Break 2 | — |
+| 11:30 – 1:00 | **Main Session 2** | 61 Kirkland, Rm 202 |
+| 1:00 – 2:30 | Lunch *(organized by interests to connect researchers)* | 61 Kirkland, Rm 202 |
+| 2:30 – 4:00 | **Main Session 3** | 61 Kirkland, Rm 202 |
+| 4:00 – 4:05 | Break 3 | — |
+| 4:05 – 4:20 | Concluding Remarks from Gal, Sam, and Jack | 61 Kirkland, Rm 202 |
+| 4:30 – 6:30 | **Poster Session** with happy hour (drinks and pizza) | CGIS Knafel, Fisher Family Commons |
+
+::: {.callout-note}
+Main-session panel assignments are listed on the [Panels](panels.qmd) page. Discussant
+assignments for the main panels will follow over the summer.
+:::

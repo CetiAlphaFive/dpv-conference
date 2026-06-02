@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Democracy & Political Violence"
+  description: "Democracy and Political Violence Conference & Working Group — Harvard University"
+  site-url: "https://cetialphafive.github.io/dpv-conference/"
+  navbar:
+    background: primary
+    title: "Democracy & Political Violence"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule
+      - href: panels.qmd
+        text: Panels
+      - href: posters.qmd
+        text: Posters
+      - href: about.qmd
+        text: About
+    right:
+      - text: "Join the Listserv"
+        href: "#join"
+  page-footer:
+    center: "Democracy and Political Violence Conference & Working Group · Harvard University, Cambridge MA"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    grid:
+      body-width: 1000px
