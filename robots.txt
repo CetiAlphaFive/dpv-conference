@@ -1,1 +1,1 @@
-Sitemap: https://cetialphafive.github.io/dpv-conference/sitemap.xml
+Sitemap: https://dpvconf.com/sitemap.xml
