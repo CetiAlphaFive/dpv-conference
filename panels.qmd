@@ -6,22 +6,42 @@ title: "Main Panels"
 
 **Chair:** [Hojung Joo](https://www.hojungjoo.com) (Harvard University)
 
-- **[Angela Alonso](https://www.angelaalonso.org/en)** — *Lethal Political Violence in Brazil (2003–2023)*
-- **[Francisca Castro](https://francisca-castro.com/)** — *Environmental Defender Killings and Climate Activism in Latin America*
+- **[Angela Alonso](https://www.angelaalonso.org/en) and Regina Bateson** — *Lethal Political Violence in Brazil (2003–2023)*
+    - Primary discussant: Regina Bateson
+    - Secondary discussant: Hilary Izatt
+- **Sophia Solomon** — *Ultra-Hooligans and the Political Mechanism of Sports Violence*
+    - Primary discussant: Josephine Lechartre
+    - Secondary discussant: Sam Fuller
 - **[George Melios](https://www.georgemelios.com/)** — *Propaganda, Mobilisation, and Repression in Greece*
+    - Primary discussant: Lennart Schürmann
+    - Secondary discussant: Amnon Cavari
 
-## Panel 2 — National Trends and Shocks in (Anti-)Democratic Attitudes
-
-**Chair:** [Hilary Izatt](https://www.hilaryizatt.com/) (Binghamton University)
-
-- **[Amnon Cavari](https://www.runi.ac.il/en/faculty/cavari)** — *Rallying Around Democracy: Public Evaluation of Democratic Quality During War*
-- **[Lucas Woodley](https://caps.gov.harvard.edu/directory/lucas-woodley/)** — *Tracking the Erosion of Democratic Norms: Panel Evidence Spanning the 2024 US Presidential Election*
-- **[Lennart Schürmann](https://schuermannl.github.io/)** — *Defending Democracy: Quasi-Experimental Evidence of the Effect of State Action on Public Support for Democracy*
-
-## Panel 3 — The Effect of Personal Experience and Social Norms on (Anti-)Democratic Attitudes and Support for Political Violence
+## Panel 2 — The Effect of Personal Experience and Social Norms on (Anti-)Democratic Attitudes and Support for Political Violence
 
 **Chair:** [Marko Kljajic](https://www.markokljajic.com/) (Harvard University)
 
 - **[Miku Matsunaga](https://mikumatsunaga.github.io/)** — *Did You Do That on Purpose? The Unintended Impact of Mainstream Accommodation on Violence Justification Attitudes*
+    - Primary discussant: Sam Fuller
+    - Secondary discussant: Elias Koch
 - **[Daniel Goldstein](https://daniel-a-n-goldstein.com/)** — *The Moral Question: Norms and Anti-System Politics*
+    - Primary discussant: Lucas Woodley
+    - Secondary discussant: Marko Kljajic
 - **[Josephine Lechartre](https://www.josephinelechartre.com/)** — *Human Rights or Criminals' Rights? How Crime and Insecurity Undermine Support for Human Rights in Latin America*
+    - Primary discussant: Neeraj Prasad
+    - Secondary discussant: Angela Alonso
+
+## Panel 3 — National Trends and Shocks in (Anti-)Democratic Attitudes
+
+**Chair:** [Hilary Izatt](https://www.hilaryizatt.com/) (Binghamton University)
+
+- **[Amnon Cavari](https://www.runi.ac.il/en/faculty/cavari)** — *Rallying Around Democracy: Public Evaluation of Democratic Quality During War*
+    - Primary discussant: Miku Matsunaga
+    - Secondary discussant: Sophia Solomon
+- **[Lucas Woodley](https://caps.gov.harvard.edu/directory/lucas-woodley/)** — *Tracking the Erosion of Democratic Norms: Panel Evidence Spanning the 2024 US Presidential Election*
+    - Primary discussant: Daniel Goldstein
+    - Secondary discussant: Gal Bitton
+- **[Lennart Schürmann](https://schuermannl.github.io/)** — *Defending Democracy: Quasi-Experimental Evidence of the Effect of State Action on Public Support for Democracy*
+    - Primary discussant: George Melios
+    - Secondary discussant: Jack Rametta
+
+Each paper has two discussants: a primary discussant from within the paper's subfield, and a secondary discussant from outside it.
