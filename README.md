@@ -1,4 +1,4 @@
-# Democracy and Political Violence Conference & Working Group — Website
+# Democracy and Political Violence Conference & Collaborative — Website
 
 Quarto website for the conference, hosted at Harvard University.
 

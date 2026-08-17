@@ -10,7 +10,7 @@ project:
 
 website:
   title: "Democracy & Political Violence"
-  description: "Democracy and Political Violence Conference & Working Group — Harvard University"
+  description: "Democracy and Political Violence Conference & Collaborative — Harvard University"
   site-url: "https://dpvconf.com"
   favicon: favicon.ico
   sidebar:
@@ -29,7 +29,7 @@ website:
       - href: about.qmd
         text: About
   page-footer:
-    center: "Democracy and Political Violence Conference & Working Group · Harvard University, Cambridge MA"
+    center: "Democracy and Political Violence Conference & Collaborative · Harvard University, Cambridge MA"
 
 format:
   html:
