@@ -2,7 +2,7 @@
 
 // Palette
 $olive:      #434B26;
-$ochre:      #A57030;  // secondary + links
+$ochre:      #A57030;  // secondary + footer links + accents
 $espresso:   #302B1F;  // body text
 $umber:      #673F25;  // deep accent / link hover
 $sand:       #CAB87B;  // page background
@@ -11,8 +11,9 @@ $primary:    $olive;
 $secondary:  $ochre;
 $body-bg:    $sand;
 $body-color: $espresso;
-$link-color: $ochre;
-$link-hover-color: $umber;
+// Umber (not ochre) for WCAG AA contrast on the sand background: 4.60:1 vs 2.15:1
+$link-color: $umber;
+$link-hover-color: $espresso;
 
 // Typography — Gill Sans MT with graceful fallbacks (proprietary, no web embed)
 $font-family-sans-serif: "Gill Sans MT", "Gill Sans", "Gill Sans Nova", Calibri, "Trebuchet MS", "Segoe UI", sans-serif !default;
@@ -24,8 +25,8 @@ body { font-family: $font-family-sans-serif; background-color: $sand; }
 
 h1, h2, h3, h4, h5, h6 { color: $olive; }
 
-a { color: $ochre; }
-a:hover { color: $umber; }
+a { color: $umber; }
+a:hover { color: $espresso; }
 
 // Larger sidebar menu
 .sidebar-navigation .sidebar-item .sidebar-item-text,
@@ -33,7 +34,7 @@ a:hover { color: $umber; }
 .sidebar nav a { font-size: 1.2rem; }
 
 .sidebar nav a.active,
-.sidebar nav a:hover { color: $umber; font-weight: 600; }
+.sidebar nav a:hover { color: $espresso; font-weight: 600; }
 
 // Footer tint
 .nav-footer, .page-footer { background-color: $espresso; color: #f3efe6; }
