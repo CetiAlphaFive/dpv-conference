@@ -36,3 +36,8 @@ table { font-size: .95rem; }
   color: #A57030;
 }
 .panel-structure ul { padding-left: 1.1rem; margin-bottom: .5rem; }
+
+/* Wider margin column so the panel-structure box has room */
+body.floating {
+  --grid-margin-width: 500px;
+}
