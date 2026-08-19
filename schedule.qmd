@@ -2,24 +2,21 @@
 title: "Schedule"
 ---
 
-**Location:** Harvard University, Cambridge, MA<br>
-**Main sessions:** 61 Kirkland St., Room 202 — *202 Meeting Room*<br>
+**Location:** William James Hall, 33 Kirkland St., Cambridge, MA 02138<br>
+**Main sessions:** Room 1550 — *1550 Meeting Room*<br>
 **Poster session:** CGIS Knafel, Fisher Family Commons<br>
 
 ## Working schedule
 
 | Time | Session | Room |
 |------|---------|------|
-| 8:15 – 9:15 | Coffee and Breakfast Hour | 61 Kirkland, Rm 202 |
-| 9:15 – 9:30 | Introductions | 61 Kirkland, Rm 202 |
-| 9:30 – 9:45 | Opening Remarks | 61 Kirkland, Rm 202 |
-| 9:45 – 9:50 | Break 1 | — |
-| 9:50 – 11:20 | Main Session 1 | 61 Kirkland, Rm 202 |
-| 11:20 – 11:30 | Break 2 | — |
-| 11:30 – 1:00 | Main Session 2 | 61 Kirkland, Rm 202 |
-| 1:00 – 2:30 | Lunch *(organized by interests to connect researchers)* | 61 Kirkland, Rm 202 |
-| 2:30 – 4:00 | Main Session 3 | 61 Kirkland, Rm 202 |
-| 4:00 – 4:10 | Break 3 | — |
-| 4:10 – 4:30 | Finishing up, moving to CGIS Knafel | 61 Kirkland, Rm 202 |
-| 4:30 – 6:30 | Poster Session with happy hour and pizza | CGIS Knafel, Fisher Family Commons |
-| 6:30 | Announcement of Poster Session Awards and concluding remarks from [Gal](https://galbitton5.github.io/), [Sam](https://samjfuller.com/), and [Jack](https://jackrametta.com/) | CGIS Knafel, Fisher Family Commons |
+| 8:00 – 9:00 | Coffee and Breakfast Hour | William James Hall, Rm 1550 |
+| 9:00 – 9:15 | Introductions and opening remarks | William James Hall, Rm 1550 |
+| 9:15 – 11:15 | Main Session 1 | William James Hall, Rm 1550 |
+| 11:15 – 11:30 | Break 1 | — |
+| 11:30 – 1:30 | Main Session 2 | William James Hall, Rm 1550 |
+| 1:30 – 2:45 | Lunch *(organized by interests to connect researchers)* | William James Hall, Rm 1550 |
+| 2:45 – 4:45 | Main Session 3 | William James Hall, Rm 1550 |
+| 4:45 – 5:00 | Finishing up, moving to CGIS Knafel | William James Hall, Rm 1550 |
+| 5:00 – 7:00 | Poster Session with happy hour and pizza | CGIS Knafel, Fisher Family Commons |
+| 7:00 | Announcement of Poster Session Awards and concluding remarks from [Gal](https://galbitton5.github.io/), [Sam](https://samjfuller.com/), and [Jack](https://jackrametta.com/) | CGIS Knafel, Fisher Family Commons |

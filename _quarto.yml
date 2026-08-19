@@ -36,4 +36,5 @@ format:
     theme: [cosmo, theme.scss]
     css: styles.css
     toc: false
+    page-layout: article
     include-in-header: head-icons.html

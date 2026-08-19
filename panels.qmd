@@ -2,6 +2,26 @@
 title: "Main Panels"
 ---
 
+::: {.column-margin .panel-structure}
+### Panel structure
+
+**5 min** — Introduction to panel from Chair
+
+**30 min per paper**
+
+- *5 min* — Introduction from author(s)
+    - Research question + hypotheses
+    - Data + design
+    - Results 1
+    - Results 2
+    - Takeaways
+- *5 min* — Primary discussant
+- *5 min* — Secondary discussant
+- *15 min* — Discussion
+
+**25 min** — Open discussion across all papers
+:::
+
 ## Panel 1 — Comparative Perspectives on Political Violence
 
 **Chair:** [Hojung Joo](https://www.hojungjoo.com) (Harvard University)
