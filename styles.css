@@ -22,3 +22,17 @@
 
 h2 { border-bottom: 2px solid #A57030; padding-bottom: .3rem; margin-top: 2rem; }
 table { font-size: .95rem; }
+
+.panel-structure {
+  background: #faf7f2;
+  border-left: 3px solid #A57030;
+  border-radius: 4px;
+  padding: .75rem 1rem;
+  font-size: .85rem;
+}
+.panel-structure h3 {
+  margin-top: 0;
+  font-size: .95rem;
+  color: #A57030;
+}
+.panel-structure ul { padding-left: 1.1rem; margin-bottom: .5rem; }
