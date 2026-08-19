@@ -38,25 +38,28 @@ table { font-size: .95rem; }
 .panel-structure ul { padding-left: 1.1rem; margin-bottom: .5rem; }
 
 /* Wider margin column so the panel-structure box has room.
-   Quarto compiles the grid track widths into bootstrap.min.css as literal px
-   values, so widening the margin column means restating the whole
-   grid-template-columns with the body-end-outset track doubled (200px ->
-   400px). styles.css loads after bootstrap, so this wins on cascade order. */
+   Quarto compiles grid track widths as literal px into bootstrap.min.css.
+   This site's body is `.floating`, so `body.floating .page-columns` is the
+   rule that wins; the margin track there is minmax(50px, 150px). Restate the
+   whole grid with that track doubled to minmax(100px, 300px). !important
+   because the bootstrap selector has equal specificity and both variants
+   (wide + narrow media query) must be beaten. */
 @media (min-width: 992px) {
-  body .page-columns {
+  body.floating .page-columns {
     grid-template-columns:
       [screen-start] 1.5em
       [screen-start-inset] 5fr
-      [page-start page-start-inset] 35px
-      [body-start-outset] 35px
+      [page-start] minmax(25px, 50px)
+      [page-start-inset] minmax(50px, 150px)
+      [body-start-outset] minmax(25px, 50px)
       [body-start] 1.5em
-      [body-content-start] minmax(500px, calc(850px - 3em))
+      [body-content-start] minmax(450px, calc(800px - 3em))
       [body-content-end] 1.5em
-      [body-end] 50px
-      [body-end-outset] minmax(0px, 400px)
-      [page-end-inset] 35px
+      [body-end] minmax(25px, 50px)
+      [body-end-outset] minmax(100px, 300px)
+      [page-end-inset] minmax(25px, 50px)
       [page-end] 5fr
       [screen-end-inset] 1.5em
-      [screen-end];
+      [screen-end] !important;
   }
 }
