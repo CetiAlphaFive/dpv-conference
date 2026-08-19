@@ -37,7 +37,26 @@ table { font-size: .95rem; }
 }
 .panel-structure ul { padding-left: 1.1rem; margin-bottom: .5rem; }
 
-/* Wider margin column so the panel-structure box has room */
-body.floating {
-  --grid-margin-width: 500px;
+/* Wider margin column so the panel-structure box has room.
+   Quarto compiles the grid track widths into bootstrap.min.css as literal px
+   values, so widening the margin column means restating the whole
+   grid-template-columns with the body-end-outset track doubled (200px ->
+   400px). styles.css loads after bootstrap, so this wins on cascade order. */
+@media (min-width: 992px) {
+  body .page-columns {
+    grid-template-columns:
+      [screen-start] 1.5em
+      [screen-start-inset] 5fr
+      [page-start page-start-inset] 35px
+      [body-start-outset] 35px
+      [body-start] 1.5em
+      [body-content-start] minmax(500px, calc(850px - 3em))
+      [body-content-end] 1.5em
+      [body-end] 50px
+      [body-end-outset] minmax(0px, 400px)
+      [page-end-inset] 35px
+      [page-end] 5fr
+      [screen-end-inset] 1.5em
+      [screen-end];
+  }
 }
