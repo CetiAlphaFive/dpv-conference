@@ -10,7 +10,7 @@ project:
 
 website:
   title: "Democracy & Political Violence"
-  description: "Democracy and Political Violence Conference & Collaborative — Harvard University"
+  description: "Democracy and Political Violence Collaborative — a research network on political violence and (anti-)democratic attitudes"
   site-url: "https://dpvconf.com"
   favicon: favicon.ico
   sidebar:
@@ -20,16 +20,21 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: schedule.qmd
-        text: Schedule
-      - href: panels.qmd
-        text: Panels
-      - href: posters.qmd
-        text: Posters
       - href: about.qmd
         text: About
+      - href: mpsa2027/index.qmd
+        text: "MPSA 2027"
+      - section: "APSA 2026"
+        href: apsa2026/index.qmd
+        contents:
+          - href: apsa2026/schedule.qmd
+            text: Schedule
+          - href: apsa2026/panels.qmd
+            text: Panels
+          - href: apsa2026/posters.qmd
+            text: Posters
   page-footer:
-    center: "Democracy and Political Violence Conference & Collaborative · Harvard University, Cambridge MA"
+    center: "Democracy and Political Violence Collaborative"
 
 format:
   html:

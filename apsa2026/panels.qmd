@@ -1,5 +1,8 @@
 ---
 title: "Main Panels"
+subtitle: "APSA 2026 Pre-Conference · Harvard · Wednesday, September 2, 2026"
+aliases:
+  - /panels.html
 ---
 
 ::: {.column-margin .panel-structure}
@@ -67,4 +70,4 @@ title: "Main Panels"
     - Primary discussant: George Melios
     - Secondary discussant: Jack Rametta
 
-Each paper has two discussants: a primary discussant from within the paper's subfield, and a secondary discussant from outside it.
+Each paper had two discussants: a primary discussant from within the paper's subfield, and a secondary discussant from outside it.

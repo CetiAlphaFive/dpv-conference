@@ -1,10 +1,13 @@
 ---
 title: "Poster Session"
+subtitle: "APSA 2026 Pre-Conference · Harvard · Wednesday, September 2, 2026"
+aliases:
+  - /posters.html
 ---
 
-The poster session runs **5:00 – 7:00** in **CGIS Knafel, Fisher Family Commons**, with a happy hour and pizza. Poster Session Awards and concluding remarks from Gal, Sam, and Jack are announced at **7:00**.
+The poster session ran **5:00 – 7:00** in **CGIS Knafel, Fisher Family Commons**, with a happy hour and pizza, followed by the Poster Session Awards and concluding remarks from Gal, Sam, and Jack. See the [award winners](index.qmd#poster-awards).
 
-Each poster has one discussant.
+Each poster had one discussant.
 
 ## Political Violence Against Masses, Elites, and the State
 
@@ -17,7 +20,7 @@ Each poster has one discussant.
 
 ## State Repression, Mass Movements, and Mass Violence
 
-- **[Mert Bayraktar](https://ps.ucdavis.edu/people/mert-bayraktar)** — *Striking Back: Commodity Shocks and Anti-Union Violence in Colombia*
+- **[Mert Bayraktar](https://www.linkedin.com/in/mertbayraktar/)** — *Striking Back: Commodity Shocks and Anti-Union Violence in Colombia* [🏆 Poster Award]{.award-badge}
     - Discussant: Angela Alonso
 - **[Paul Binder](https://www.en.gsi.uni-muenchen.de/people/academic/paul_binder/index.html)** — *Explaining the Geography of Discontent: How Economic Shocks Affect the Spatial Dynamics of Protest*
     - Discussant: Neeraj Prasad
@@ -33,5 +36,5 @@ Each poster has one discussant.
 
 ## Democratic Backsliding and Accountability
 
-- **[Murat Akdogan](https://www.muratakdogan.com/)** — *When Democracy Still Constrains: The Microfoundations of Democratic Accountability Under Party-Democracy Conflict*
+- **[Murat Akdogan](https://www.muratakdogan.com/)** — *When Democracy Still Constrains: The Microfoundations of Democratic Accountability Under Party-Democracy Conflict* [🏆 Poster Award]{.award-badge}
     - Discussant: Amnon Cavari

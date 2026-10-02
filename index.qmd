@@ -1,22 +1,50 @@
 ---
-title: "Democracy and Political Violence<br>Conference & Collaborative"
-pagetitle: "Democracy & Political Violence Conference"
+title: "Democracy and Political Violence<br>Collaborative"
+pagetitle: "Democracy & Political Violence Collaborative"
 ---
 
 ::: {.hero-banner}
-### Mini-Conference at Harvard University before APSA 2026
+### Now accepting submissions: MPSA 2027 Mini-Conference
 
-**Location:** William James Hall, 33 Kirkland St., Room 1550 — Cambridge, MA 02138<br>
-**Date:** *Wednesday, September 2nd 2026*
+**Saturday, April 3, 2027** · During MPSA's annual meeting<br>
+**Deadline:** end of day, November 2, 2026
 
-[Join the Listserv](https://groups.io/g/dpv/join){.btn .btn-primary .btn-lg target="_blank"}
+[Call for submissions](mpsa2027/index.qmd){.btn .btn-primary .btn-lg}
+[Join the listserv](https://groups.io/g/dpv/join){.btn .btn-outline-light .btn-lg target="_blank"}
 :::
 
-## About the conference
+## APSA Pre-Conference Poster awards
 
-The **Democracy and Political Violence Collaborative** brings together
-researchers studying political violence and (anti-)democratic attitudes across
-comparative and national contexts. The day features three main panels, a poster
-session, and structured opportunities to connect researchers.
+The poster session featured a wide array of topics and methods, and every poster was
+phenomenal. Two received poster awards:
 
-Organized by [Sam Fuller](https://samjfuller.com/), [Gal Bitton](https://galbitton5.github.io/), and [Jack T. Rametta](https://jackrametta.com/). 
+::: {.award-list}
+- 🏆 **[Mert Bayraktar](https://www.linkedin.com/in/mertbayraktar/)** — *Striking Back: Commodity Shocks and Anti-Union Violence in Colombia*
+- 🏆 **[Murat Akdogan](https://www.muratakdogan.com/)** — *When Democracy Still Constrains: The Microfoundations of Democratic Accountability Under Party-Democracy Conflict*
+:::
+
+## About the Collaborative
+
+The **Democracy and Political Violence Collaborative** brings together researchers who study
+democracy and political violence, broadly construed — regardless of discipline, subfield, career
+stage, or approach. This includes, but is not limited to, work on democratic resilience and
+backsliding, support for political violence and antidemocratic policies, and the effect of
+violence on political behavior.
+
+Our goal is to provide a space for feedback, connection, and collaboration that bridges common
+divides, such as subfield and discipline. We hold a mini-conference every year at MPSA and host
+similar events at APSA and EPSS, along with specific workshops and meetings.
+
+## Upcoming
+
+- **[MPSA 2027 Mini-Conference](mpsa2027/index.qmd)** — Saturday, April 3, 2027. Three paper
+  panels, a roundtable on the state of the field, and a poster session/reception.
+  Applications due November 2, 2026.
+- **EPSS** — Keep an eye out for a potential pre-conference at EPSS.
+
+## Past events
+
+- **[APSA 2026 Pre-Conference](apsa2026/index.qmd)** — Harvard University, September 2, 2026.
+  Our first conference which featured three paper panels and a poster session with two awards.
+
+Organized by [Sam Fuller](https://samjfuller.com/), [Gal Bitton](https://galbitton5.github.io/), and [Jack T. Rametta](https://jackrametta.com/).

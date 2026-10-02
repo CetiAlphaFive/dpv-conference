@@ -1,12 +1,15 @@
 ---
 title: "Schedule"
+subtitle: "APSA 2026 Pre-Conference · Harvard · Wednesday, September 2, 2026"
+aliases:
+  - /schedule.html
 ---
 
 **Location:** William James Hall, 33 Kirkland St., Cambridge, MA 02138<br>
 **Main sessions:** Room 1550 — *1550 Meeting Room*<br>
 **Poster session:** CGIS Knafel, Fisher Family Commons<br>
 
-## Working schedule
+## Schedule
 
 | Time | Session | Room |
 |------|---------|------|

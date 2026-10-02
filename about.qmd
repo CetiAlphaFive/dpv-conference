@@ -2,19 +2,24 @@
 title: "About"
 ---
 
-The **Democracy and Political Violence Conference & Collaborative** convenes researchers
-working on political violence and (anti-)democratic attitudes. Our first conference will be held at
-Harvard University in Cambridge, MA before APSA 2026.
+The **Democracy and Political Violence Collaborative** convenes researchers who study democracy
+and political violence, across disciplines, subfields, career stages, and approaches. We hold a
+mini-conference every year at MPSA, host similar events at APSA and EPSS, and organize specific
+workshops and meetings. Beyond the paper sessions, our events are built to cultivate an enduring
+community of researchers, with dedicated time to connect, exchange ideas, and lay the groundwork
+for future collaboration.
+
+Our first conference was a [pre-conference to APSA 2026](apsa2026/index.qmd) at Harvard
+University. Our next is an [MPSA 2027 Mini-Conference](mpsa2027/index.qmd).
 
 ## Organizers
 
-The conference is organized by **[Sam Fuller](https://samjfuller.com/)**, **[Gal Bitton](https://galbitton5.github.io/)**, and **[Jack T. Rametta](https://jackrametta.com/)**.
+- **[Sam Fuller](https://samjfuller.com/)** — Postdoctoral Fellow, Department of Government, Harvard University
+- **[Gal Bitton](https://galbitton5.github.io/)** — Postdoctoral Fellow, Mossavar-Rahmani Center for Business and Government, Harvard University
+- **[Jack T. Rametta](https://jackrametta.com/)** — Emerging Scholar, The Mercatus Center at George Mason University
 
-## Sponsors 
+## Stay in touch
 
-The conference is supported by [Center for American Political Studies (CAPS)](https://caps.gov.harvard.edu/) and the [Weatherhead Center](https://www.wcfia.harvard.edu/) at Harvard University. 
-
-## Questions, comments, concerns
-
-Have a question, or want to share information or feedback? Please reach out to the
-organizers.
+[Join the listserv](https://groups.io/g/dpv/join){target="_blank"} to hear about upcoming
+conferences and calls for submissions. If you have any questions, want to express interest, or
+just want to connect, don't hesitate to reach out to the organizers.

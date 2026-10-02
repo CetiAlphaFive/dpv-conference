@@ -1,0 +1,66 @@
+---
+title: "MPSA 2027 Mini-Conference"
+subtitle: "Saturday, April 3, 2027 · During MPSA's annual meeting, Chicago"
+---
+
+::: {.hero-banner}
+### Call for submissions — now open
+
+**Deadline:** end of day, Monday, November 2, 2026<br>
+**Decisions:** by Friday, November 6, 2026
+
+[Apply or register interest](https://forms.gle/N8DT9HGRhqTAmciH9){.btn .btn-primary .btn-lg target="_blank"}
+:::
+
+The Democracy and Political Violence Collaborative is hosting a mini-conference
+(a "conference within a conference") during MPSA's 2027 annual meeting on **Saturday, April 3**.
+This is our second meeting, following our [pre-conference at APSA 2026](../apsa2026/index.qmd).
+
+## What we're looking for
+
+As always, we invite work — regardless of discipline, subfield, career stage, or approach —
+that studies democracy and political violence, broadly construed. This includes, but is not
+limited to, work on:
+
+- democratic resilience and backsliding
+- support for political violence and antidemocratic policies
+- the effect of violence on political behavior
+
+We welcome submissions of all kinds, including **abstracts, research plans, and papers**.
+
+## Format
+
+The day will feature three paper panels, a roundtable on the state of the field and avenues for
+future research, and a reception and poster session. The rough schedule:
+
+1. Coffee hour
+2. Session 1
+3. Session 2
+4. Lunch
+5. Session 3
+6. Roundtable
+7. Reception / poster session
+
+While the conference focuses on accepted papers, **attendance and discussion are open with
+advance registration**. Beyond the paper sessions, the day is structured to build an enduring
+community of researchers in this space, with dedicated time for all attendees — presenters and
+non-presenters alike — to connect, exchange ideas, and lay the groundwork for future
+collaboration.
+
+We expect all attendees to read the accepted papers, and accepted authors will also serve as
+discussants.
+
+## How to apply
+
+Use the [application form](https://forms.gle/N8DT9HGRhqTAmciH9){target="_blank"} to submit
+work or to register your interest in attending. The form requires a Google account to upload
+files.
+
+::: {.callout-note icon=false}
+## Applying to MPSA as well?
+You can apply to present both at our mini-conference and at MPSA more generally. The two
+processes are separate: we handle submissions to the mini-conference directly, and general
+submissions are handled by MPSA.
+:::
+
+Questions, or just want to connect? Reach out to [the organizers](../about.qmd).
