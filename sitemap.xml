@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dpvconf.com/posters.html</loc>
-    <lastmod>2026-09-02T10:36:40.078Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpvconf.com/panels.html</loc>
-    <lastmod>2026-09-02T10:36:40.078Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpvconf.com/schedule.html</loc>
-    <lastmod>2026-09-02T10:36:40.078Z</lastmod>
-  </url>
-  <url>
     <loc>https://dpvconf.com/about.html</loc>
-    <lastmod>2026-09-02T10:36:40.078Z</lastmod>
+    <lastmod>2026-10-02T21:24:26.099Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpvconf.com/apsa2026/posters.html</loc>
+    <lastmod>2026-10-02T21:24:26.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpvconf.com/apsa2026/index.html</loc>
+    <lastmod>2026-10-02T21:24:26.101Z</lastmod>
   </url>
   <url>
     <loc>https://dpvconf.com/index.html</loc>
-    <lastmod>2026-09-02T10:36:40.078Z</lastmod>
+    <lastmod>2026-10-02T21:24:26.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpvconf.com/mpsa2027/index.html</loc>
+    <lastmod>2026-10-02T21:24:26.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpvconf.com/apsa2026/panels.html</loc>
+    <lastmod>2026-10-02T21:24:26.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpvconf.com/apsa2026/schedule.html</loc>
+    <lastmod>2026-10-02T21:24:26.101Z</lastmod>
   </url>
 </urlset>

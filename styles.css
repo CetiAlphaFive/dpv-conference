@@ -63,3 +63,38 @@ table { font-size: .95rem; }
       [screen-end] !important;
   }
 }
+
+/* Poster award winners */
+.award-list ul { list-style: none; padding-left: 0; }
+.award-list li {
+  background: #faf7f2;
+  border-left: 3px solid #A57030;
+  border-radius: 4px;
+  padding: .6rem 1rem;
+  margin-bottom: .6rem;
+}
+.award-badge {
+  display: inline-block;
+  background: #434B26;
+  color: #fff;
+  font-size: .75rem;
+  font-weight: 600;
+  padding: .1rem .5rem;
+  border-radius: 999px;
+  margin-left: .35rem;
+  white-space: nowrap;
+}
+
+/* Callouts in the site palette (replaces Bootstrap blue on sand) */
+.callout.callout-style-default {
+  background-color: #faf7f2;
+  border: 1px solid #e3d8bd !important;
+  border-left: 3px solid #A57030 !important;
+  border-radius: 4px;
+}
+.callout.callout-titled .callout-header {
+  background-color: #f1e8d3 !important;
+  border-bottom: none !important;
+}
+.callout .callout-title-container { color: #434B26; font-weight: 600; }
+.callout .callout-body-container { color: #302B1F; }
